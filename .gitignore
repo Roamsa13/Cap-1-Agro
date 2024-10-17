@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite database
+farmtech.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store

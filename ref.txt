@@ -1,0 +1,5 @@
+	•	ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados: Fundamentos e Aplicações. 6. ed. São Paulo: Pearson Addison Wesley, 2011.
+	•	HEUSER, C. A. Projeto de Banco de Dados. Série Livros Didáticos. v. 4. 6. ed. Rio Grande do Sul: Bookman, 2009.
+	•	MACHADO, Felipe Nery R. Banco de Dados - Projeto e Implementação. 2. ed. São Paulo: Érica, 2008.
+	•	PUGA, S.; FRANÇA, E.; GOYA, M. Banco de Dados: Implementação em SQL, PL/SQL e Oracle 11g. São Paulo: Pearson Education do Brasil, 2013.
+	•	SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de Banco de Dados. 5. ed. Rio de Janeiro: Campus, 2006.
