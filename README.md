@@ -1,4 +1,4 @@
-# 🥳 PROJETO AMIGO: FarmTech Solutions - Modelagem de Banco de Dados
+FarmTech Solutions - Modelagem de Banco de Dados
 
 ## 📋 Sumário
 - [Introdução](#introdução)
